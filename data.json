@@ -1,0 +1,619 @@
+{
+  "updatedAt": "2026-07-19",
+  "benchUpdated": "2026-07-19",
+  "products": [
+    {
+      "name": "工银理财·现金管理1号",
+      "risk": "现金管理类",
+      "termType": "t0",
+      "yield": 1.78,
+      "amount": 1000,
+      "note": "T+0 实时赎回到账",
+      "bank": "工商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "工银理财·稳利7天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t7",
+      "yield": 2.05,
+      "amount": 1000,
+      "note": "周滚动",
+      "bank": "工商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "工银理财·鑫稳30天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t30",
+      "yield": 2.42,
+      "amount": 10000,
+      "note": "业绩比较基准",
+      "bank": "工商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "工银理财·鑫得利90天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t90",
+      "yield": 2.85,
+      "amount": 10000,
+      "bank": "工商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "工银理财·鑫鼎利182天",
+      "risk": "中等风险(R3)",
+      "termType": "t180",
+      "yield": 3.55,
+      "amount": 50000,
+      "note": "混合策略",
+      "bank": "工商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "工银理财·全球鑫融365",
+      "risk": "较高风险(R4)",
+      "termType": "t365",
+      "yield": 4.4,
+      "amount": 100000,
+      "note": "含权益资产",
+      "bank": "工商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "农银理财·安心快线1号",
+      "risk": "现金管理类",
+      "termType": "t0",
+      "yield": 1.82,
+      "amount": 1000,
+      "bank": "农业银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "农银理财·农银同心7天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t7",
+      "yield": 2.08,
+      "amount": 1000,
+      "bank": "农业银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "农银理财·惠农理财30天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t30",
+      "yield": 2.45,
+      "amount": 10000,
+      "bank": "农业银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "农银理财·本利丰180天",
+      "risk": "中等风险(R3)",
+      "termType": "t180",
+      "yield": 3.45,
+      "amount": 50000,
+      "bank": "农业银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "农银理财·进取精选365",
+      "risk": "较高风险(R4)",
+      "termType": "t365",
+      "yield": 4.2,
+      "amount": 100000,
+      "note": "FOF 含权益",
+      "bank": "农业银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "中银理财·乐享天天",
+      "risk": "现金管理类",
+      "termType": "t0",
+      "yield": 1.8,
+      "amount": 1000,
+      "bank": "中国银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "中银理财·稳富7天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t7",
+      "yield": 2.1,
+      "amount": 1000,
+      "bank": "中国银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "中银理财·稳富安享30天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t30",
+      "yield": 2.48,
+      "amount": 10000,
+      "bank": "中国银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "中银理财·私享90天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t90",
+      "yield": 2.95,
+      "amount": 50000,
+      "bank": "中国银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "中银理财·混合精选182天",
+      "risk": "中等风险(R3)",
+      "termType": "t180",
+      "yield": 3.6,
+      "amount": 50000,
+      "bank": "中国银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "中银理财·全球配置365",
+      "risk": "较高风险(R4)",
+      "termType": "t365",
+      "yield": 4.35,
+      "amount": 100000,
+      "bank": "中国银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "建信理财·嘉鑫天天",
+      "risk": "现金管理类",
+      "termType": "t0",
+      "yield": 1.76,
+      "amount": 1000,
+      "bank": "建设银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "建信理财·建行龙宝7天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t7",
+      "yield": 2.04,
+      "amount": 1000,
+      "bank": "建设银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "建信理财·福星30天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t30",
+      "yield": 2.4,
+      "amount": 10000,
+      "bank": "建设银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "建信理财·睿鑫180天",
+      "risk": "中等风险(R3)",
+      "termType": "t180",
+      "yield": 3.52,
+      "amount": 50000,
+      "bank": "建设银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "建信理财·私行精选365",
+      "risk": "较高风险(R4)",
+      "termType": "t365",
+      "yield": 4.28,
+      "amount": 200000,
+      "bank": "建设银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "交银理财·现金添利",
+      "risk": "现金管理类",
+      "termType": "t0",
+      "yield": 1.79,
+      "amount": 1000,
+      "bank": "交通银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "交银理财·沃德7天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t7",
+      "yield": 2.07,
+      "amount": 1000,
+      "bank": "交通银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "交银理财·稳享90天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t90",
+      "yield": 2.82,
+      "amount": 10000,
+      "bank": "交通银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "交银理财·得利宝182天",
+      "risk": "中等风险(R3)",
+      "termType": "t180",
+      "yield": 3.5,
+      "amount": 50000,
+      "bank": "交通银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "交银理财·全球精选365",
+      "risk": "较高风险(R4)",
+      "termType": "t365",
+      "yield": 4.32,
+      "amount": 100000,
+      "bank": "交通银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "招银理财·日日宝",
+      "risk": "现金管理类",
+      "termType": "t0",
+      "yield": 1.88,
+      "amount": 1000,
+      "note": "代销+自营",
+      "bank": "招商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "招银理财·7天滚动",
+      "risk": "低风险(R1/R2)",
+      "termType": "t7",
+      "yield": 2.18,
+      "amount": 1000,
+      "bank": "招商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "朝招金·稳健30天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t30",
+      "yield": 2.55,
+      "amount": 10000,
+      "bank": "招商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "招银理财·睿远平衡90天",
+      "risk": "中等风险(R3)",
+      "termType": "t90",
+      "yield": 3.1,
+      "amount": 50000,
+      "bank": "招商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "招银理财·金葵花182天",
+      "risk": "中等风险(R3)",
+      "termType": "t180",
+      "yield": 3.65,
+      "amount": 100000,
+      "bank": "招商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "招银理财·全球配置365",
+      "risk": "较高风险(R4)",
+      "termType": "t365",
+      "yield": 4.45,
+      "amount": 200000,
+      "note": "含 QDII",
+      "bank": "招商银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "兴银理财·现金宝",
+      "risk": "现金管理类",
+      "termType": "t0",
+      "yield": 1.83,
+      "amount": 1000,
+      "bank": "兴业银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "兴银理财·稳添利7天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t7",
+      "yield": 2.12,
+      "amount": 1000,
+      "bank": "兴业银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "兴银理财·稳赢30天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t30",
+      "yield": 2.5,
+      "amount": 10000,
+      "bank": "兴业银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "兴银理财·睿选180天",
+      "risk": "中等风险(R3)",
+      "termType": "t180",
+      "yield": 3.58,
+      "amount": 50000,
+      "bank": "兴业银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "兴银理财·全球精选365",
+      "risk": "较高风险(R4)",
+      "termType": "t365",
+      "yield": 4.3,
+      "amount": 100000,
+      "bank": "兴业银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "民生银行·天天增利",
+      "risk": "现金管理类",
+      "termType": "t0",
+      "yield": 1.81,
+      "amount": 1000,
+      "bank": "民生银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "民生银行·非凡7天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t7",
+      "yield": 2.06,
+      "amount": 1000,
+      "bank": "民生银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "民生银行·稳健30天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t30",
+      "yield": 2.46,
+      "amount": 10000,
+      "bank": "民生银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "民生银行·优选90天",
+      "risk": "低风险(R1/R2)",
+      "termType": "t90",
+      "yield": 2.88,
+      "amount": 10000,
+      "bank": "民生银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "民生银行·博悦182天",
+      "risk": "中等风险(R3)",
+      "termType": "t180",
+      "yield": 3.48,
+      "amount": 50000,
+      "bank": "民生银行",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "name": "民生银行·私行精选365",
+      "risk": "较高风险(R4)",
+      "termType": "t365",
+      "yield": 4.25,
+      "amount": 200000,
+      "bank": "民生银行",
+      "updatedAt": "2026-07-19"
+    }
+  ],
+  "bench": [
+    {
+      "category": "idx",
+      "name": "上证指数",
+      "value": 0.42,
+      "unit": "%",
+      "period": "本周",
+      "updatedAt": "2026-07-19",
+      "note": "周收盘点位变化"
+    },
+    {
+      "category": "idx",
+      "name": "深证成指",
+      "value": -0.18,
+      "unit": "%",
+      "period": "本周",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    },
+    {
+      "category": "idx",
+      "name": "沪深300",
+      "value": 0.55,
+      "unit": "%",
+      "period": "本周",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    },
+    {
+      "category": "idx",
+      "name": "中证500",
+      "value": -0.3,
+      "unit": "%",
+      "period": "本周",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    },
+    {
+      "category": "idx",
+      "name": "创业板指",
+      "value": 0.88,
+      "unit": "%",
+      "period": "本周",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    },
+    {
+      "category": "idx",
+      "name": "科创50",
+      "value": 1.05,
+      "unit": "%",
+      "period": "本周",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    },
+    {
+      "category": "cpi",
+      "name": "CPI 同比",
+      "value": 0.3,
+      "unit": "%",
+      "period": "同比",
+      "updatedAt": "2026-07-19",
+      "note": "国家统计局"
+    },
+    {
+      "category": "cpi",
+      "name": "核心CPI 同比",
+      "value": 0.6,
+      "unit": "%",
+      "period": "同比",
+      "updatedAt": "2026-07-19",
+      "note": "扣除食品与能源"
+    },
+    {
+      "category": "ppi",
+      "name": "PPI 同比",
+      "value": -1.8,
+      "unit": "%",
+      "period": "同比",
+      "updatedAt": "2026-07-19",
+      "note": "工业品出厂价格"
+    },
+    {
+      "category": "sec",
+      "name": "中信证券 现金增强",
+      "value": 1.95,
+      "unit": "%",
+      "period": "年化",
+      "updatedAt": "2026-07-19",
+      "note": "活期型"
+    },
+    {
+      "category": "sec",
+      "name": "中信证券 稳健30天",
+      "value": 2.6,
+      "unit": "%",
+      "period": "年化",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    },
+    {
+      "category": "sec",
+      "name": "华泰证券 紫金90天",
+      "value": 2.85,
+      "unit": "%",
+      "period": "年化",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    },
+    {
+      "category": "sec",
+      "name": "中金公司 鑫享180天",
+      "value": 3.1,
+      "unit": "%",
+      "period": "年化",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    },
+    {
+      "category": "sec",
+      "name": "海通证券 海赢365天",
+      "value": 3.55,
+      "unit": "%",
+      "period": "年化",
+      "updatedAt": "2026-07-19",
+      "note": "混合策略"
+    },
+    {
+      "category": "ins",
+      "name": "平安人寿 智盈万能险",
+      "value": 3.2,
+      "unit": "%",
+      "period": "结算",
+      "updatedAt": "2026-07-19",
+      "note": "万能险"
+    },
+    {
+      "category": "ins",
+      "name": "中国人寿 鑫享分红",
+      "value": 2.85,
+      "unit": "%",
+      "period": "年化",
+      "updatedAt": "2026-07-19",
+      "note": "分红险"
+    },
+    {
+      "category": "ins",
+      "name": "太保家园 投连平衡",
+      "value": 3.85,
+      "unit": "%",
+      "period": "年化",
+      "updatedAt": "2026-07-19",
+      "note": "投连险"
+    },
+    {
+      "category": "ins",
+      "name": "新华保险 惠添利",
+      "value": 3.05,
+      "unit": "%",
+      "period": "结算",
+      "updatedAt": "2026-07-19",
+      "note": "万能险"
+    },
+    {
+      "category": "house",
+      "name": "70城新建商品住宅",
+      "value": -2.45,
+      "unit": "%",
+      "period": "同比",
+      "updatedAt": "2026-07-19",
+      "note": "国家统计局"
+    },
+    {
+      "category": "house",
+      "name": "70城二手住宅",
+      "value": -4.1,
+      "unit": "%",
+      "period": "同比",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    },
+    {
+      "category": "house",
+      "name": "一线 新建",
+      "value": -1.2,
+      "unit": "%",
+      "period": "同比",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    },
+    {
+      "category": "house",
+      "name": "二线 新建",
+      "value": -2.1,
+      "unit": "%",
+      "period": "同比",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    },
+    {
+      "category": "house",
+      "name": "三线 新建",
+      "value": -3.4,
+      "unit": "%",
+      "period": "同比",
+      "updatedAt": "2026-07-19",
+      "note": ""
+    }
+  ]
+}
