@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-13",
-  "benchUpdated": "2026-09-13",
+  "updatedAt": "2026-09-20",
+  "benchUpdated": "2026-09-20",
   "products": [
     {
       "name": "工银理财·现金管理1号",
@@ -411,55 +411,55 @@
     {
       "category": "idx",
       "name": "上证指数",
-      "value": -1.07,
+      "value": 0.61,
       "unit": "%",
       "period": "本周",
-      "updatedAt": "2026-09-13",
+      "updatedAt": "2026-09-20",
       "note": "周收盘点位变化"
     },
     {
       "category": "idx",
       "name": "深证成指",
-      "value": -0.34,
+      "value": 1.26,
       "unit": "%",
       "period": "本周",
-      "updatedAt": "2026-09-13",
+      "updatedAt": "2026-09-20",
       "note": ""
     },
     {
       "category": "idx",
       "name": "沪深300",
-      "value": -0.83,
+      "value": -0.06,
       "unit": "%",
       "period": "本周",
-      "updatedAt": "2026-09-13",
+      "updatedAt": "2026-09-20",
       "note": ""
     },
     {
       "category": "idx",
       "name": "中证500",
-      "value": -0.94,
+      "value": 2.89,
       "unit": "%",
       "period": "本周",
-      "updatedAt": "2026-09-13",
+      "updatedAt": "2026-09-20",
       "note": ""
     },
     {
       "category": "idx",
       "name": "创业板指",
-      "value": 1.08,
+      "value": 1.52,
       "unit": "%",
       "period": "本周",
-      "updatedAt": "2026-09-13",
+      "updatedAt": "2026-09-20",
       "note": ""
     },
     {
       "category": "idx",
       "name": "科创50",
-      "value": -1.52,
+      "value": 6.39,
       "unit": "%",
       "period": "本周",
-      "updatedAt": "2026-09-13",
+      "updatedAt": "2026-09-20",
       "note": ""
     },
     {
